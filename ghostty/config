@@ -1,0 +1,35 @@
+font-size = 14
+font-synthetic-style = "no-bold"
+# https://github.com/JetBrains/JetBrainsMono/wiki/OpenType-features
+font-feature = cv02,cv04,cv06,cv07,cv11,cv12,cv16,cv17,cv18,zero
+adjust-cell-height = 10%
+
+gtk-single-instance = true
+
+auto-update = off
+
+app-notifications = no-config-reload
+
+shell-integration-features = no-cursor
+cursor-style = block
+cursor-style-blink = false
+cursor-opacity = 0.5
+
+window-theme = dark
+background-blur = true
+
+minimum-contrast = 2
+
+command = fish
+
+mouse-hide-while-typing = true
+resize-overlay = never
+window-padding-x = 12
+window-padding-y = 12
+window-padding-balance = true
+
+confirm-close-surface = false
+
+keybind = alt+t=new_tab
+
+theme = noctalia
